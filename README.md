@@ -2,7 +2,7 @@
 
 ## Publication
 
-**Predicting Irregular Mobility via Web Search Data-Driven Bipartite Graph Neural Networks**
+**Predicting Irregular Mobility via Web Search Data-Driven Bipartite Graph Neural Networks.**
 Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri, 2022.
 
 ## Requirements
